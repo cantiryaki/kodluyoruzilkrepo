@@ -25,3 +25,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 # License 
   MIT
+#  Patika Dev Linki 
+https://app.patika.dev/cantiryaki
